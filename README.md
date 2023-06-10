@@ -23,7 +23,7 @@ This project is a real-time face attendance system that utilizes face recognitio
 1. Clone the repository.
 2. Install the required dependencies by running the following command:
 ```
-pip install -r requirements.txt.
+pip install -r requirements.txt
 ```
 3. Set up the database using Firebase.
 4. Update the necessary configurations.
