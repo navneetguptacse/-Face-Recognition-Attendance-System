@@ -23,7 +23,6 @@ This project is a real-time face attendance system that utilizes face recognitio
 - Python 3.7.6
 - Graphics library
 - OpenCV
-- Dlib
 - Face Recognition
 - Firebase Admin SDK
 - Other dependencies specified in the `'requirements.txt'` file
