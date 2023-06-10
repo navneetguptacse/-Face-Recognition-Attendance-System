@@ -9,15 +9,6 @@ This project is a real-time face attendance system that utilizes face recognitio
 - Integration with Firebase for data storage in Real-time.
 - User-friendly graphical interface.
 
-## 📄 Requirements
-
-- Python 3.7.6
-- PyCharm IDE
-- Webcam
-- Graphics library
-- Face Recognition module
-- Firebase Realtime Database
-
 ## 📑Prerequisites
 - Before running the project, make sure you have the following prerequisites installed:
 - Python 3.7.6
