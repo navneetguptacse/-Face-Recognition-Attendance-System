@@ -6,7 +6,7 @@ This project is a real-time face attendance system that utilizes face recognitio
 
 - Automatic face detection and recognition.
 - Real-time attendance marking.
-- Integration with Firebase for data storage.
+- Integration with Firebase for data storage in realtime.
 - User-friendly graphical interface.
 
 ## 📄 Requirements
